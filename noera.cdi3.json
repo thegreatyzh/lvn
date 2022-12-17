@@ -1,0 +1,455 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup4",
+			"Name": "翻转"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup4",
+			"Name": "耳朵尖"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup4",
+			"Name": "耳毛"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup3",
+			"Name": "HUDIEJIE"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup3",
+			"Name": "HUDIEJIE2"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup3",
+			"Name": "YIFU"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup3",
+			"Name": "YIFU2"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup3",
+			"Name": "KUZI"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup3",
+			"Name": "KUZI2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "dm"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup2",
+			"Name": "dm2"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup2",
+			"Name": "摇动　前发"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "摇动前2"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup2",
+			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup2",
+			"Name": "houfa 2"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup2",
+			"Name": "摇动　侧发"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup2",
+			"Name": "侧发2"
+		},
+		{
+			"Id": "lianhong1",
+			"GroupId": "ParamGroup",
+			"Name": "脸红1"
+		},
+		{
+			"Id": "lianhong2",
+			"GroupId": "ParamGroup",
+			"Name": "脸红2"
+		},
+		{
+			"Id": "lianhong3",
+			"GroupId": "ParamGroup",
+			"Name": "脸红3"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "SHOU"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[1]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[2]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[3]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[4]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[5]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[6]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[7]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_9_ArtMesh41",
+			"GroupId": "ParamGroup5",
+			"Name": "[8]toufa-H"
+		},
+		{
+			"Id": "Param_Angle_Rotation_1_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[0]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[1]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[2]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[3]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[4]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[5]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_weiba",
+			"GroupId": "ParamGroup6",
+			"Name": "[6]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_weiba",
+			"GroupId": "ParamGroup7",
+			"Name": "[7]weiba"
+		},
+		{
+			"Id": "Param_Angle_Rotation_9_weiba",
+			"GroupId": "ParamGroup7",
+			"Name": "[8]weiba"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "ling"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "ling2"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "gaoguang"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "gapguang2"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "耳朵物理"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "衣服物理"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "头发物理"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "脸红"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "toufa-H"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "weiba"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "weiba"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "weiba"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "weiba"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "weiba"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "weiba"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "toufa-Qian"
+		},
+		{
+			"Id": "ear",
+			"Name": "ear"
+		},
+		{
+			"Id": "face",
+			"Name": "face"
+		},
+		{
+			"Id": "Part6",
+			"Name": "bin-2"
+		},
+		{
+			"Id": "bozi",
+			"Name": "bozi"
+		},
+		{
+			"Id": "kuzi",
+			"Name": "kuzi"
+		},
+		{
+			"Id": "shangban",
+			"Name": "shangban"
+		},
+		{
+			"Id": "weiba_Skinning",
+			"Name": "weiba(蒙皮)"
+		},
+		{
+			"Id": "Part8",
+			"Name": "weiba(回转)"
+		},
+		{
+			"Id": "ArtMesh41_Skinning",
+			"Name": "toufa-H(蒙皮)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "toufa-H(回转)"
+		},
+		{
+			"Id": "Part2",
+			"Name": "ear-L"
+		},
+		{
+			"Id": "Part3",
+			"Name": "ear-R"
+		},
+		{
+			"Id": "eye",
+			"Name": "eye"
+		},
+		{
+			"Id": "saihong",
+			"Name": "saihong"
+		},
+		{
+			"Id": "zui",
+			"Name": "zui"
+		},
+		{
+			"Id": "hudiejie",
+			"Name": "hudiejie"
+		},
+		{
+			"Id": "Part4",
+			"Name": "eye-L"
+		},
+		{
+			"Id": "Part5",
+			"Name": "eye-R"
+		}
+	]
+}
